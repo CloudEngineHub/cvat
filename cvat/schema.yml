@@ -13489,9 +13489,6 @@ components:
           type: string
           format: date-time
           readOnly: true
-        changed_fields:
-          type: string
-          readOnly: true
         request:
           readOnly: true
         response:
